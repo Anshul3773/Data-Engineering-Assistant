@@ -1,0 +1,5 @@
+openai_api_key: ""
+slack_token: ""
+mongodb_uri: "mongodb://localhost:27017/"
+data_storage: "s3://ai-data-engineering-logs"
+log_level: "INFO"
